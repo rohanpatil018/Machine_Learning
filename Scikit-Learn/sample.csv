@@ -1,0 +1,6 @@
+Name,Gender,City,Passed
+Rohan,Male,Mumbai,True
+Sonia,Female,Delhi,
+Amit,,Bangalore,True
+Neha,Female,,False
+Karan,Male,Pune,
